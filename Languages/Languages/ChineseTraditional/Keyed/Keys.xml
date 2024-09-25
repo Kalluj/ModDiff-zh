@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <SaveGameMods>保存的mods列表:</SaveGameMods>
+ <MergedMods>修改後的mods列表:</MergedMods>
+ <RunningMods>運行中的mods列表:</RunningMods>
+ <IgnoreSelfTitle>在模組匹配檢查中忽略本MOD</IgnoreSelfTitle>
+ <IgnoreSelfHint>可能會出現的問題</IgnoreSelfHint>
+ <SteamSameAsLocal>將Steam和本地模組視爲匹配</SteamSameAsLocal>
+ <KeepSelfLoaded>在修改mod列表後，保持本MOD的加載</KeepSelfLoaded>
+ <Use_1_4_Style>使用RimWorld 1.4風格</Use_1_4_Style>
+ <AlternativePalette>更多顏色</AlternativePalette>
+
+ <MissingModsWarningTitle>缺少的mods</MissingModsWarningTitle>
+ <MissingModsWarningText>這個存檔中一些MOD是不可用的，可能是你取消了訂閱/原作者刪除了作品/該MOD被從本地目錄中刪除。</MissingModsWarningText>
+
+ <EditModListTitle>修改mods列表</EditModListTitle>
+ <EditModListText>你可以從存檔中選擇你想保留的mods，並從當前加載的mods中刪除，按住並拖動以快速選擇/取消。</EditModListText>
+ <LeftMods>加載左邊列表</LeftMods>
+ <RightMods>加載右邊列表</RightMods>
+ <MD_LoadModList>加載mod列表並重啓游戲</MD_LoadModList>
+
+ <ModDiffWillBeDisabledTitle>ModDiff將被卸載</ModDiffWillBeDisabledTitle>
+ <ModDiffWillBeDisabledText>你將要把ModDiff或它的依賴從mods列表中移除，它將禁用這個mod，你要繼續嗎？</ModDiffWillBeDisabledText>
+</LanguageData>
